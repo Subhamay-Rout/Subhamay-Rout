@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/Subhamay-Rout"><img src="https://img.shields.io/badge/GitHub-Subhamay--Rout-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto:subhamayrout@example.com"><img src="https://img.shields.io/badge/Email-subhamayrout@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:routsubhamay@gmail.com"><img src="https://img.shields.io/badge/Email-subhamayrout@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
